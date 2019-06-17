@@ -3,16 +3,6 @@
 	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "PythonScriptPlugin",
-			"Enabled": true
-		},
-		{
-			"Name": "EditorScriptingUtilities",
-			"Enabled": true
-		}
-	],
 	"TargetPlatforms": [
 		"AllDesktop",
 		"MacNoEditor",
